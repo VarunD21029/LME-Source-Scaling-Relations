@@ -6,4 +6,4 @@ Population-level predictions (L_pop) use only fixed effects and represent the av
 Group-level predictions (L_group) include both fixed and random effects, capturing variability due to categorical factors (e.g., FM, SVT).
 The model predicts log₁₀(L) internally; results are converted back to linear scale.
 The .mat file must in the same directory
-For the random-effects levels for other parametrs please refer to manuscript in the document folder of the rpository.
+For the random-effects levels for other parametrs please refer to manuscript in the documentation folder of the repository.
